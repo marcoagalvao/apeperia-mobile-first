@@ -1,0 +1,1 @@
+Projeto feito na plataforma Alura. Nesse projeto foi feita uma página de uma apeperia, e durante o curso foi ensinado o modelo Mobile First. E todo projeto foi baseado nesse modelo.
